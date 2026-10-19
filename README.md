@@ -1,4 +1,4 @@
-# AI 闯关学习小程序（yu-ai-learn）
+# AI 闯关学习小程序（ai-learn-tools）
 
 
 ## 一、项目介绍
