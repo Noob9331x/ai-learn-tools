@@ -3,7 +3,7 @@
 
 ## 一、项目介绍
 
-这是一套以 **AI 编程实战** 为核心的项目教程，基于 Taro + Python FastAPI + LangChain + LangGraph + DeepSeek开发一个《AI 闯关学习微信小程序》，并且部署上线.
+本项目基于 Taro + Python FastAPI + LangChain + LangGraph + DeepSeek开发一个《AI 闯关学习微信小程序》，并且部署上线.
 ![](https://pic.yupi.icu/1/1-project-demo-overview.png)
 
 ## 主要功能
