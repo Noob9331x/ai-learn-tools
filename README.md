@@ -4,7 +4,6 @@
 ## 一、项目介绍
 
 本项目基于 Taro + Python FastAPI + LangChain + LangGraph + DeepSeek开发一个《AI 闯关学习微信小程序》，并且部署上线.
-![](https://pic.yupi.icu/1/1-project-demo-overview.png)
 
 ## 主要功能
 输入一句话说出你想学什么，AI 自动联网搜索最新资料并生成一组闯关题目，边答边学，每答一题立刻给出答案和讲解，通关后还能拿到一份 AI 复盘报告。
